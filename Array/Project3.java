@@ -358,7 +358,7 @@ class Hotel
     
     static void deallocate(int rn,int rtype)
     {
-        int j;
+        
         char w;
         switch (rtype) {
             case 1:               

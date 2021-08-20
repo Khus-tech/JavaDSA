@@ -1,4 +1,4 @@
-package Trees;
+package Trees.Trees;
 
 // insert operation in binary 
 // search tree 
